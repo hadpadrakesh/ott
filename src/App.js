@@ -10,15 +10,6 @@ import Updatemovie from "./component/Updatemovie";
 
 
 
-// import Addproducts from "./Assignment/Addproducts";
-// import Navpage from "./Assignment/Navpage";
-// import Products from "./Assignment/Product";
-// import Products from "./Assignment/Productdetails";
-//  import {BrowserRouter, Routes, Route} from 'react-router-dom'
-
-
-
-// !Movie
 
 function app()
 {
@@ -43,38 +34,4 @@ function app()
 export default app;
 
 
-// //!product
-// function app()
-// {
-//     return (
-//       <BrowserRouter>
-//         <div className="app">
-          
-//           <Navpage/>
-//           <Routes>
-//           <Route path="/" element={<Products/>}/>
-//           <Route path="/add" element={<Addproducts/>}/>
-//           <Route path="/productdetails/:id" element={<Productdetails/>}/>
-//          </Routes>
-          
-        
-//         </div>
-//         </BrowserRouter>
-//     )
-// }
-// export default app;
-
-//!Spotify
-// function app ()
-// {
-//     return (
-
-//       <div className="app">
-
-//          <Navbar1/>
-
-//       </div>
-//     )
-// }
-// export default app;
 
