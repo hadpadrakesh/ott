@@ -1,0 +1,221 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "KGF:Chapter2",
+      "hero": "Yash",
+      "heroine": "Srinidhi Shetty",
+      "director": "Prashant Neel",
+      "languages": [
+        "Kannada",
+        "telugu",
+        "taamil",
+        "Hindi"
+      ],
+      "genre": "Action,Thriller, Historicaldrama ",
+      "poster": "https://stat5.bollywoodhungama.in/wp-content/uploads/2019/03/K.G.F-%E2%80%93-Chapter-2-2.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2022",
+      "rating": "9.8",
+      "synopsis": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies look up to him, the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy."
+    },
+    {
+      "id": 2,
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "Comedy,thriller,divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": 3,
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "alia",
+      "director": "Rajmouli",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "history,Action,divine",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "2021",
+      "rating": "8",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem."
+    },
+    {
+      "id": 4,
+      "moviename": "Apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy,thriller,horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": "10",
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": 5,
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance,drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 6,
+      "moviename": "Evil Dead Rise",
+      "hero": "Christin",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Lee Cornin",
+      "languages": [
+        "English"
+      ],
+      "genre": "Horror,Thriller",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBLO9PW_a5mu9H2wP9N2e1IZV63D1UZ3KdQ&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/BqQNO7BzN08",
+      "release": "2023",
+      "rating": "8.5",
+      "synopsis": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable."
+    },
+    {
+      "id": 8,
+      "moviename": "IronMan",
+      "hero": "Rober Downey Jr.",
+      "heroine": "Gwyneth Paltrow",
+      "director": "Jon Favreau",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action,Sci-fi",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-woh6-UUtgrGEv4UhIsP3uSqNrMCTN4-e0A&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc",
+      "release": "2008",
+      "rating": "10",
+      "synopsis": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+    },
+    {
+      "moviename": "Guardians of the Galaxy Vol. 3",
+      "hero": "chris pratt",
+      "heroine": "kareen gillan",
+      "director": "James gunn",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "genre": "Action,adventure",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/guardians-of-the-galaxy-vol-3-et00310794-1669967545.jpg",
+      "trailer": "https://www.youtube.com/embed/u3V5KDHRQvk",
+      "release": "2023",
+      "rating": "10",
+      "synopsis": "Our beloved band of misfits are settling into life on Knowhere. But it isn`t long before their lives are upended by the echoes of Rocket`s turbulent past. Peter Quill, still reeling from the loss of Gamora, must rally his team around him on a dangerous mission to save Rocket`s life - a mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "id": 9
+    },
+    {
+      "moviename": "FAST X",
+      "hero": "Vin Diesel",
+      "heroine": "Nathalie Emmanuel",
+      "director": "Justin Lin",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English"
+      ],
+      "genre": "Action,thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/fast-x-et00122562-1683110461.jpg",
+      "trailer": "https://www.youtube.com/embed/aOb15GVFZxU",
+      "release": "2023",
+      "rating": "9.8",
+      "synopsis": "Dom Toretto and his family must confront a terrifying new enemy who`s fueled by revenge.",
+      "id": 10
+    },
+    {
+      "moviename": "John Wick: Chapter 4",
+      "hero": "Keanu Reeves",
+      "heroine": "Sandra Bullock",
+      "director": "Chad Stahelski",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English"
+      ],
+      "genre": "Action, thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/john-wick-chapter-4-et00311714-1679379542.jpg",
+      "trailer": "https://www.youtube.com/embed/qEVUtrk8_B4",
+      "release": "2023",
+      "rating": "9",
+      "synopsis": "John Wick (Keanu Reeves) takes on his most lethal adversaries yet in the upcoming fourth installment of the series. With the price on his head ever increasing, Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Osaka to Berlin.",
+      "id": 11
+    },
+    {
+      "moviename": "The Pope's Exorcist",
+      "hero": "Russell Crowe",
+      "heroine": "Laurel Marsden",
+      "director": "Julius Avery",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English"
+      ],
+      "genre": "Horror,thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-pope-s-exorcist-et00353346-1677136464.jpg",
+      "trailer": "https://www.youtube.com/embed/YJXqvnT_rsk",
+      "release": "2023",
+      "rating": "7.5",
+      "synopsis": "The Pope`s Exorcist follows Amorth as he investigates a young boys terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+      "id": 12
+    },
+    {
+      "moviename": "Avatar: The Way of Water",
+      "hero": "Sam Worthington",
+      "heroine": " Zoe Saldana",
+      "director": "James Cameron",
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Maliyalam",
+        "English"
+      ],
+      "genre": "Action,Fantasy,Scifi,Adventure",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/avatar-the-way-of-water-et00037264-1670850986.jpg",
+      "trailer": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "release": "2023",
+      "rating": "8.8",
+      "synopsis": "Set more than a decade after the events of the first film, \"Avatar The Way of Water\" begins to tell the story of the Sully family (Jake, Neytiri and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure.",
+      "id": 13
+    }
+  ]
+}

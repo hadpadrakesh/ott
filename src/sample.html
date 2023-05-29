@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<style>
+   
+
+    .input-box {
+    position: relative;
+    width: 400px;
+    height: auto;
+    margin: 50px auto;
+    padding: 20px;
+    border: solid 2px black;
+}
+
+input {
+    display: block;
+    width: 160px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+input:focus{
+    outline: none;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+}
+span {
+    background-color: white;
+    position:absolute;
+    top: 28px;
+    left: 28px;
+}
+.input-box input:focus~span {
+    color: greenyellow;
+    top: 10.5px;
+    transform: scale(0.8); 
+    transition: 0.3s linear;
+}
+
+</style>
+
+<body>
+  
+
+    <div class="input-box">
+        <input type="text" />
+        <span>Username</span>
+    </div>
+
+<script>
+
+
+</script>
+
+</body>
+</html>
+
+
+
+
+

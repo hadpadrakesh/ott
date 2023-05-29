@@ -1,0 +1,185 @@
+
+{
+    "products":[
+        {"id":1,
+        "productname":" Round Neck ",
+        "productType":"T-shirt",
+        "MRP":"₹229",
+        "discount":"84%",
+        "color":"Blue",
+        "size":["S","M","L","XL","XXL"],
+        "gender":"Male",
+        "prodcutpicture":"https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/r/v/k/m-ausk0165-ausk-original-imaghu9fbhcgf2za.jpeg?q=70",
+        "rating":"4.2"      
+    },
+
+    {"id":2,
+    "productname":" Mandarin Collar ",
+    "productType":"T-Shirt",
+    "MRP":"₹1,299",
+    "discount":"35%",
+    "color":"Green",
+    "size":["S","M","L","XL","XXL"],
+    "gender":"Male",
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/832/832/l51d30w0/t-shirt/n/l/y/s-aykpcurgfj29332-allen-solly-original-imagfssdrzma5p5w.jpeg?q=70",
+    "rating":"4.1"    
+     },
+
+     {"id":3,
+    "productname":"Regular Fit",
+    "productType":"Formal Shirt",
+    "MRP":"₹349",
+    "discountprice":"81%",
+    "color":["Blue,Black,White,Light Grey,Dark Pink,Olive Green"],
+    "size":["S","M","L","XL","XXL"],
+    "gender":"Male",
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/832/832/l1qrjbk0/shirt/n/5/x/xl-frml-st2-vebnor-original-imagd8gff9d76avf.jpeg?q=70",
+    "rating":"4.3"    
+     },
+
+     {"id":4,
+    "productname":"Fastrack ",
+    "productType":"Watch",
+    "MRP":"₹2,250",
+    "discount":"10%",
+    "color":"Black",
+    "gender":"Male",
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/832/832/xif0q/watch/r/b/5/-original-imagz3zgqt46vhce.jpeg?q=70",
+    "rating":"4.3"    
+     },
+
+     {"id":5,
+    "productname":"NIKON Z-50 ",
+    "productType":"Camera",
+    "MRP":"₹1,05,995",
+    "discountprice":"15%",
+    "color":"Black",
+    "gender":"Unisex",
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/k5o7r0w0/dslr-camera/m/3/2/z-50-z-50-nikon-original-imafzasjdhpzm2zn.jpeg?q=70",
+    "rating":"4.4"    
+     },
+
+     {"id":6,
+    "productname":"boAt Rockerz 510 ",
+    "productType":"Bluetooth Headset",
+    "MRP":"₹3,490",
+    "discount":"68%",
+    "color":"Viper Green",
+    "gender":"Unisex",
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/l3vxbbk0/headphone/k/h/v/-original-imagewuzhtb8t6rq.jpeg?q=70",
+    "rating":"4.3"    
+     },
+
+     {"id":7,
+    "productname":"Boult Audio Gearpods ",
+    "productType":"Bluetooth Headset",
+    "MRP":"₹5,999",
+    "discount":"83%",
+    "color":"White",
+    "gender":"Unisex",  
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/3/l/0/-original-imaghhtpvp9fgcdm.jpeg?q=70",
+    "rating":"3.7"    
+     },
+
+     {"id":8,
+    "productname":"APPLE iPhone 14 Pro",
+    "productType":"Mobile",
+    "MRP":"₹1,19,999",
+    "discountprice":"7%",
+    "color":"Space Black",
+    "gender":"Unisex",
+    "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/y/l/p/-original-imaghxemc3wtcuhb.jpeg?q=70",
+    "rating":"4.7"    
+     },
+
+     {"id":9,
+     "productname":"SAMSUNG Series 8",
+     "productType":"TV",
+     "MRP":"₹5,99,900",
+     "discountprice":"7%",
+     "color":"Black",
+     "gender":"Unisex",
+     "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/jialea80/television/q/c/k/samsung-75nu8000-original-imaf64ffsapydczh.jpeg?q=70",
+     "rating":"4"    
+      },
+
+      {"id":10,
+      "productname":"Xiaomi 11T Pro ",
+      "productType":"Mobile",
+      "MRP":"₹42,999",
+      "discountprice":"7%",
+      "color":"Celestial Magic",
+      "gender":"Unisex",
+      "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/kynb6vk0/mobile/s/5/g/11t-pro-5g-11t-mi-original-imagatzzzpffbhgb.jpeg?q=70",
+      "rating":"4.1"    
+       },
+
+       {"id":11,
+       "productname":"SONY 139 cm",
+       "productType":"TV",
+       "MRP":"₹2,49,999",
+       "discountprice":"36%",
+       "color":"Black",
+       "gender":"Unisex",
+       "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/xif0q/television/n/u/u/xr-55a80k-in5-sony-original-imaghfzeedvpymaa.jpeg?q=70",
+       "rating":"5"    
+        },
+
+        {"id":12,
+        "productname":"HIGHLANDER ",
+        "productType":"Jeans",
+        "MRP":"₹1,299",
+        "discountprice":"57%",
+        "color":"Black",
+        "size":["S","M","L","XL","XXL"],
+        "gender":"Male",
+        "prodcutpicture":"https://rukminim1.flixcart.com/image/832/832/xif0q/jean/g/d/f/30-000897-highlander-original-imafpchpgqkjpuqg-bb.jpeg?q=70",
+        "rating":"3.8"    
+         },
+  
+         {"id":13,
+         "productname":"Urbano Fashion ",
+         "productType":"Jeans",
+         "MRP":"₹1,399",
+         "discountprice":"60%",
+         "color":["Blue,Black,DarkBrown,Light Grey,Olive Green"],
+         "gender":"Unisex",
+         "prodcutpicture":"https://rukminim1.flixcart.com/image/832/832/kihqz680-0/jean/u/s/s/28-eps-lblue-01-urbano-fashion-original-imafy9th7fyu54bw.jpeg?q=70",
+         "rating":"4.7"    
+          },
+
+          {"id":14,
+          "productname":"Rolex",
+          "productType":"Watch",
+          "MRP":"₹10,999",
+          "discountprice":"7%",
+          "color":"Silver",
+          "gender":"Male",
+          "prodcutpicture":"https://m.media-amazon.com/images/I/41rcS32yqOL._SX392_BO1,204,203,200_.jpg",
+          "rating":"4.7"    
+           },
+
+           {"id":15,
+           "productname":"Canon EOS M50 Mark II",
+           "productType":"Camera",
+           "MRP":"₹66,995",
+           "discountprice":"10%",
+           "color":"Black",
+           "gender":"Unisex",
+           "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70",
+           "rating":"4.4"    
+            },
+
+            {"id":16,
+            "productname":"SAMSUNG 183 L",
+            "productType":"Refrigerator ",
+            "MRP":"₹22,999",
+            "discountprice":"27%",
+            "color":"Camellia Blue",
+            "gender":"Unisex",
+            "prodcutpicture":"https://rukminim1.flixcart.com/image/416/416/xif0q/refrigerator-new/4/q/7/-original-imagmxh2kv35bskc.jpeg?q=70",
+            "rating":"4.4"    
+             }
+    
+]
+}
